@@ -20,3 +20,5 @@
 * [Functional Programming](functional-programming.md)
 * [Pub/Sub](pub-sub.md)
 * [CDN](cdn.md)
+* [Web Socket](web-socket.md)
+* [Web Push](web-push.md)
