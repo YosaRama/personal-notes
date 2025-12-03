@@ -22,3 +22,6 @@
 * [CDN](cdn.md)
 * [Web Socket](web-socket.md)
 * [Web Push](web-push.md)
+* [Server Sent Events](server-sent-events.md)
+* [Serverless - Fluid Compute](serverless-fluid-compute.md)
+* [Streaming in Web App](streaming-in-web-app.md)
